@@ -9,11 +9,12 @@
 title: Oscar Montiel
 email: oscar.montiel@riseup.net
 description: > # this means to ignore newlines until "baseurl:"
-  El sitio personal de Oscar Montiel. Ciudades para la gente, tecnología cívica e internet. 
+  El sitio personal de Oscar Montiel. Ciudades para la gente, tecnología cívica e internet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tlacoyodefrijol
 github_username:  tlacoyodefrijol
+instagram_username: tlacoyodefrijol_
 
 # Build settings
 markdown: kramdown
