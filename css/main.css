@@ -172,9 +172,31 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+
 /**
  * Site header
  */
+.article-cover {
+    display:inline-block;
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 10px;
+    position: relative;
+    max-height: 380px;
+    overflow: hidden;
+    background: #eee center center scroll;
+
+
+    > div {
+        max-height: 480px;
+        line-height: 0;
+    }
+    .image {
+        width: 100%;
+        top: 0;
+        position: relative;
+    }
+}
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
