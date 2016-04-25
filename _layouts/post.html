@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/img/{{ page.cover_image }}" class="image">
+    </div>
+</div>
+{% endif %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
