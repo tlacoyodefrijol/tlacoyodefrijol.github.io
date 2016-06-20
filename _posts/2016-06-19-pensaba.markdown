@@ -1,1 +1,11 @@
-Venía pensando
+---
+layout: post
+title:  "Cavilando brevemente"
+excerpt: "sobre lo inútil que puede ser el activismo"
+date:   2016-03-20
+categories: activismo
+
+---
+Venía pensando, ahora que procrastino sobre justamente un trabajo que irá a dar al escritorio de un funcionario, de esas veces que realmente molestamos a algunos funcionarios en ciertos lugares de la ciudad. Como esa vez que nos subimos al segundo piso, o cuando hicimos infografías mientras trabajábamos en el gobierno, informando sobre gastos inútiles. A algunos los dejan trabajar en gobierno y pintar cosas porque ya no afecta nada, si mucho, le ahorra trabajo a algunos funcionarios. Habría que pensar en realmente qué va a incomodar y poner temas en la agenda. El discurso ya se ganó hace mucho. Hace tanto que ya se lo apropiaron. 
+
+Vuelvo al trabajo. 
